@@ -1,6 +1,27 @@
 {
   "dependencies": {
+    "express": "^4.17.1",
     "firebase-admin": "^9.11.0",
-    "node-schedule": "^2.0.0"
-  }
+    "node-schedule": "^2.0.0",
+    "nodemon": "^2.0.12",
+    "react-native-firebase-push-notifications": "^1.0.0"
+  },
+  "name": "notification",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnnbinh/Notification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnnbinh/Notification/issues"
+  },
+  "homepage": "https://github.com/nnnbinh/Notification#readme",
+  "description": ""
 }
